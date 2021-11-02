@@ -1,0 +1,15 @@
+# ignore generated eclipse config files.
+**/.mvn/*
+**/.settings/*
+**/.settings
+**/target/
+**/bin
+**/bin/*
+**/logs
+**/logs/*
+**/.classpath
+**/.project
+
+*.iml
+*.idea
+*.bak
